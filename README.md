@@ -3,8 +3,8 @@
 ## Uncertainty estimation methods for classification (MNIST dataset)
 
 ### Methods
-- Deep Ensembles [ [GLakshminarayanan et al., NeurIPS 2017](https://arxiv.org/abs/1612.01474) ]
-- Deep Ensembles + Adversarial Training [ [GLakshminarayanan et al., NeurIPS 2017](https://arxiv.org/abs/1612.01474) + [Goodfellow et al., ICLR 2015](https://arxiv.org/abs/1412.6572) ]
+- Deep Ensembles [ [Lakshminarayanan et al., NeurIPS 2017](https://arxiv.org/abs/1612.01474) ]
+- Deep Ensembles + Adversarial Training [ [Lakshminarayanan et al., NeurIPS 2017](https://arxiv.org/abs/1612.01474) + [Goodfellow et al., ICLR 2015](https://arxiv.org/abs/1412.6572) ]
 - Monte Carlo Dropout [ [Gal and Ghahramani, ICML 2016](https://arxiv.org/abs/1506.02142) ]
 
 ### MNIST Data
